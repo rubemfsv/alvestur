@@ -1,0 +1,17 @@
+---
+title: Penedo
+subtitle: Alagoas
+layout: default
+modal-id: 5
+date: 2014-07-18
+img: penedo.png
+thumbnail: penedo.png
+alt: image-alt
+project-date: April 2014
+state: Alagoas
+frequency: Semestralmente
+service: Romaria
+category: destino
+description: Todo domingo, transportamos feirantes da sulanca para fazer compras. A viajem dura cerca de duas horas e os feirantes tem até 11:00 da segunda-feira para fazer suas compras.
+
+---

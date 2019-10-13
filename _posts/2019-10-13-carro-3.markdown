@@ -1,0 +1,15 @@
+---
+title: Paradiso GV1150
+subtitle: 2108 
+layout: default
+bus-id: 3
+date: 2014-07-15
+img: bus3.png
+thumbnail: bus3.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: veiculo
+description: Ar condicionado, poltronas soft reclináveis, descanso de perna, TV, DVD, som e banheiro inclusos.
+
+---

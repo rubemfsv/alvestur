@@ -1,0 +1,29 @@
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: AlvesTur
+email: your-email@domain.com
+description: "AlvesTur."
+logo: <img src="{{site.url}}/{{site.baseurl}}/img/logos/alvestur.png" class="img-responsive" width="20%" height="100%">
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/alvestur/
+  - title: instagram 
+    url: https://www.instagram.com/alvesturmcz_/
+  - title: youtube
+    url: https://www.youtube.com/channel/UCNMSdYJ4MwYhpJvKiubd-Dw
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-seo-tag

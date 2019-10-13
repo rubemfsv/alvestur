@@ -1,0 +1,17 @@
+---
+title: Santa Cruz do Capibaribe
+subtitle: Pernambuco
+layout: default
+modal-id: 3
+date: 2014-07-18
+img: santacruz.png
+thumbnail: santacruz.png
+alt: image-alt
+project-date: April 2014
+state: Pernambuco
+frequency: Todo domingo
+service: Comercial
+category: destino
+description: Todo domingo, transportamos feirantes da sulanca para fazer compras. A viajem dura cerca de duas horas e os feirantes tem até 11:00 da segunda-feira para fazer suas compras.
+
+---
