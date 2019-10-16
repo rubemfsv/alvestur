@@ -730,7 +730,8 @@ footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
     font-family: {{ site.data.template.font.primary }};
-    line-height: 40px;
+    line-height: 65px;
+    padding: 20px 0;
 }
 
 footer ul.quicklinks {
@@ -743,6 +744,7 @@ footer ul.quicklinks {
 
 ul.social-buttons {
     margin-bottom: 0;
+    padding: 10px 0;
 }
 
 ul.social-buttons li a {

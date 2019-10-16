@@ -12,6 +12,22 @@
                         {% endfor %}
                     </ul>
                 </div>
+                <div class="col-md-4">
+                        <a href="https://www.google.com/maps/place/{{ site.address | url_encode }}">
+                            <i class="fas fa-map-marker-alt"></i>
+                            {{ site.address }}
+                        </a>
+                        <br>
+                        <a href="mailto:{{ site.email }}">
+                            <i class="fas fa-envelope"></i> 
+                            {{ site.email }}
+                        </a>
+                        <br>
+                        <a href="tel:{{ site.phone | replace: ' ', '-' }}">
+                            <i class="fas fa-phone"></i>
+                            {{ site.phone }}
+                        </a>
+                </div>
             </div>
         </div>
     </footer>
